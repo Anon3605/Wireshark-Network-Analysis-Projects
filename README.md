@@ -20,3 +20,10 @@ This project analyzes:
 - Build detection filters using Wireshark display filters
 - Document findings with steps and annotated screenshots
 
+## Lab Setup
+- Virtual Machines: Kali Linux, Parrot OS
+- Network: VirtualBox Bridged Network, Local to Local Port Scanning
+- Tools: Wireshark, Nmap, Scapy, Netcat, Python
+- PCAP Files: Provided in each project directory
+
+
